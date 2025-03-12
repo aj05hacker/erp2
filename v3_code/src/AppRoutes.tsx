@@ -12,7 +12,8 @@ import {
   LineChart, 
   Settings,
   Globe,
-  Code
+  Code,
+  Users
 } from 'lucide-react';
 
 function AppRoutes() {
@@ -101,6 +102,15 @@ function AppRoutes() {
               >
                 <LineChart className="w-5 h-5" />
                 <span>View Marks</span>
+              </a>
+              <a
+                href="https://erp2.abdulhajees.in"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-700 hover:bg-teal-50 hover:text-teal-600 transition-colors duration-200"
+              >
+                <Users className="w-5 h-5" />
+                <span>Student Data</span>
               </a>
               <a
                 href="https://erp.abdulhajees.in/settings"
