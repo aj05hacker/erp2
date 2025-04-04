@@ -69,7 +69,7 @@ function AppRoutes() {
             <div className="space-y-2 mb-8">
               <a
                 href="https://erp.abdulhajees.in/"
-                target="_blank"
+                target="_self"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-700 hover:bg-teal-50 hover:text-teal-600 transition-colors duration-200"
               >
@@ -78,7 +78,7 @@ function AppRoutes() {
               </a>
               <a
                 href="https://askit.abdulhajees.in/"
-                target="_blank"
+                target="_self"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-700 hover:bg-teal-50 hover:text-teal-600 transition-colors duration-200"
               >
@@ -87,7 +87,7 @@ function AppRoutes() {
               </a>
               <a
                 href="https://erp.abdulhajees.in/add-marks"
-                target="_blank"
+                target="_self"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-700 hover:bg-teal-50 hover:text-teal-600 transition-colors duration-200"
               >
@@ -96,7 +96,7 @@ function AppRoutes() {
               </a>
               <a
                 href="https://erp.abdulhajees.in/view-marks"
-                target="_blank"
+                target="_self"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-700 hover:bg-teal-50 hover:text-teal-600 transition-colors duration-200"
               >
@@ -105,7 +105,7 @@ function AppRoutes() {
               </a>
               <a
                 href="https://erp2.abdulhajees.in"
-                target="_blank"
+                target="_self"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-700 hover:bg-teal-50 hover:text-teal-600 transition-colors duration-200"
               >
@@ -114,7 +114,7 @@ function AppRoutes() {
               </a>
               <a
                 href="https://erp.abdulhajees.in/settings"
-                target="_blank"
+                target="_self"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-700 hover:bg-teal-50 hover:text-teal-600 transition-colors duration-200"
               >
@@ -131,7 +131,7 @@ function AppRoutes() {
               <div className="space-y-2">
                 <a
                   href="https://mamcet.com"
-                  target="_blank"
+                  target="_self"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-700 hover:bg-teal-50 hover:text-teal-600 transition-colors duration-200"
                 >
@@ -140,7 +140,7 @@ function AppRoutes() {
                 </a>
                 <a
                   href="https://abdulhajees.in"
-                  target="_blank"
+                  target="_self"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-700 hover:bg-teal-50 hover:text-teal-600 transition-colors duration-200"
                 >
